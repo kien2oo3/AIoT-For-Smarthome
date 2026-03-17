@@ -1,0 +1,2 @@
+opencv-python numpy pandas scikit-learn joblib face-recognition
+paho-mqtt blynklib requests
